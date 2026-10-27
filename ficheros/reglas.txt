@@ -1,0 +1,39 @@
+            ===================================================
+                       REGLAS DE HUNDIR LA FLOTA
+            ===================================================
+
+            1. OBJETIVO
+               Derrotar al oponente hundiendo toda su flota
+               antes de que el hunda la tuya.
+
+            2. EL TABLERO Y LA FLOTA
+               - Se juega en una cuadricula de 10x10.
+                 (Filas A-J, Columnas 1-10).
+               - Cada jugador coloca sus barcos en secreto.
+               - Los barcos NO pueden tocarse ni superponerse.
+               - Orientacion: Horizontal o Vertical.
+
+               LISTA DE NAVES:
+               * 1 Portaaviones (5 casillas)
+               * 1 Acorazado    (4 casillas)
+               * 2 Submarinos   (3 casillas)
+               * 1 Destructor   (2 casillas)
+
+            3. DINAMICA DEL TURNO
+               El jugador activo dice una coordenada (Ej: "B-5").
+               El oponente verifica su tablero y responde:
+
+               - AGUA    : No hay ningun barco en la casilla.
+                           (Turno pasa al siguiente jugador).
+
+               - TOCADO  : El disparo acierta en un barco.
+                           (Se marca la casilla).
+
+               - HUNDIDO : Se han acertado todas las casillas
+                           de un mismo barco.
+
+            4. FIN DE LA PARTIDA
+               La partida termina cuando un jugador se queda
+               sin barcos. El superviviente gana.
+
+            ===================================================

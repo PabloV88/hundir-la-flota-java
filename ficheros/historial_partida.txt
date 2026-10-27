@@ -1,0 +1,42 @@
+=======================================
+   RESUMEN DEL DUELO: pablo VS hola
+=======================================
+
+--- DISPAROS DE PABLO ---
+A1 -> TOCADO
+A2 -> TOCADO
+A3 -> TOCADO
+A4 -> TOCADO
+A5 -> HUNDIDO
+C1 -> TOCADO
+C2 -> TOCADO
+C3 -> TOCADO
+C4 -> HUNDIDO
+E1 -> TOCADO
+E2 -> TOCADO
+E3 -> HUNDIDO
+G1 -> TOCADO
+G2 -> TOCADO
+G3 -> HUNDIDO
+I1 -> TOCADO
+I2 -> HUNDIDO
+
+---------------------------------------
+
+--- DISPAROS DE HOLA ---
+A1 -> TOCADO
+A2 -> AGUA
+A3 -> TOCADO
+A4 -> AGUA
+A5 -> TOCADO
+C1 -> TOCADO
+C2 -> AGUA
+C3 -> TOCADO
+C4 -> AGUA
+E1 -> TOCADO
+E2 -> AGUA
+E3 -> AGUA
+G1 -> AGUA
+G2 -> AGUA
+G3 -> AGUA
+I1 -> AGUA
