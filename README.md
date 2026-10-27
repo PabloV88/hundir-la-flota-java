@@ -1,4 +1,4 @@
-# Hundir la Flota (Battleship) - Java
+# Hundir la Flota - Java
 
 Proyecto desarrollado en Java durante el 1.º curso del ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM) para la asignatura de Programación.
 
